@@ -15,8 +15,12 @@ An aspiring Computer Science student currently waiting for my HSSC (Intermediate
 - Check out my **CS50** repository below to see how I solve algorithmic and programming challenges!
 
 ## ❤️ Eager to Learn - Anybody can Teach
-- I am currently new and dont know much if anyone can correctt me or my projects e.t.c, I will be happy
+- I am currently new and don't know much if anyone can correct me or my projects etc. , I will be happy
 
 ## 🎯 Goal:
-- To get into an International Uniersity
+- Self Improvement
+- To get into an International University
+- Become Indepenent
+- Get into Big Tech
+- Experience something new
 
