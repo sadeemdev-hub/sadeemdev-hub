@@ -15,7 +15,7 @@ An aspiring Computer Science student currently waiting for my HSSC (Intermediate
 - Check out my **CS50** repository below to see how I solve algorithmic and programming challenges!
 
 ## ❤️ Eager to Learn - Anybody can Teach
-- I am currently new and don't know much if anyone can correct me or my projects etc. , I will be happy
+-I'm an ICS student passionate about computer science, currently building my foundations in Python, algorithms and software development. I enjoy learning by building projects and actively seek feedback to improve my work.
 
 ## 🎯 Goal:
 - Self Improvement
