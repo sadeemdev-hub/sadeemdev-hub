@@ -9,7 +9,7 @@ An aspiring Computer Science student currently waiting for my HSSC (Intermediate
 
 ## 🛠️ Languages & Tools
 - **Language:** Python 🐍
-- **Tools:** VS Code, Git, GitHub, GitHub Copilot
+- **Tools:** VS Code, Git, GitHub, GitHub Copilot, Streamlit
 
 ## 📁 Featured Work
 - Check out my **CS50** repository below to see how I solve algorithmic and programming challenges!
