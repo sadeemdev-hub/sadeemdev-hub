@@ -1,6 +1,6 @@
 # Hi there, I'm Sadeem! 👋
 
-An aspiring Computer Science student currently waiting for my HSSC (Intermediate) results. I am passionate about logic, problem-solving, and building foundations in software development.
+An aspiring Computer Science student currently for my HSSC (Intermediate). I am passionate about logic, problem-solving, and building foundations in software development.
 
 ## 🚀 About Me
 - 🎓 **Education:** Currently in HSSC ( 'ICS' ) Intermediate in Computer Science
